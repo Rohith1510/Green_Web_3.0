@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
+img {
+  max-width: none !important;
+  border-radius: 50%;
+}
+
+.app {
+  background: url("./assets/gradientimage-4.png") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.login {
+  background: url("./assets/greenImg1.png") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.faucetUI{
+  background: url("./assets/gadientImage-2.png") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.nftStore{
+  text-align: center;
+  padding: 1rem;
+  background: url("./assets/vivid-blurred.png") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.nftGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 20px; 
+}
+
+.nftImage{
+  width: 25rem;
+  height: 25rem;
+  padding: 3rem;
+}

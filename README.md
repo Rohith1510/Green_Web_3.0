@@ -1,2 +1,5 @@
-# Green_Web_3.0
-A decentralized social media application
+# Decentralized Social Media Application
+# Green Web Social Media Application
+
+This is the complete, finished application for the Decentralized Social Media Application.
+
